@@ -7,7 +7,7 @@ using MongoDB.Driver;
 using MongoDB.Bson;
 using MongoDB.Driver.Core;
 
-namespace Dark_Mongouille_ZhONG_TRIFISS_VENEZIA
+namespace Dark_Mongouille_ZHONG_TRIFISS_VENEZIA
 {
     class Program
     {
